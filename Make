@@ -1,0 +1,9 @@
+-R src "" COQC = hoqc COQDEP = hoqdep
+
+src/polynomial.v
+src/hit_structure.v
+src/examples.v
+src/colim.v
+src/general.v
+src/pcoeq.v
+src/hit_existence.v
